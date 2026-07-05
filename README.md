@@ -33,9 +33,3 @@ This project employs a **Transfer Learning** approach, leveraging the pre-traine
 * **Custom Layers:** A custom set of fully connected (dense) layers was added and trained specifically for this multi-class classification task.
 * **Loss Function:** Categorical Cross-Entropy.
 * **Optimizer:** Adam optimizer with a learning rate of **0.001**.
-
-## Usage
-*(Optional: Add brief instructions here on how to run your code, e.g.,)*
-1. Clone the repository.
-2. Install the required dependencies: `pip install tensorflow numpy pandas`.
-3. Run the training script to evaluate the model performance.
